@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alvin Christopher Santausa</h1>
 <h3 align="center">A passionate developer from Indonesia, currently Studying at Institut Teknologi Bandung (ITB)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=incheon21&label=Profile%20views&color=0e75b6&style=flat" alt="incheon21" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=incheon21" alt="incheon21" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alvin-christopher-santausa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvin-christopher-santausa" height="30" width="40" /></a>
