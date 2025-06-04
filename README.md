@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alvin Christopher Santausa</h1>
 <h3 align="center">A passionate developer from Indonesia, currently Studying at Institut Teknologi Bandung (ITB)</h3>
 
+<h3 align="left">Visit my portfolio app:</h3>
+<a href="https://alvin-portfolio-seven.vercel.app/" target="_blank">Alvin's Portfolio</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alvin-christopher-santausa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvin-christopher-santausa" height="30" width="40" /></a>
